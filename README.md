@@ -5,7 +5,7 @@
 - 🌱 Em paralelo, estou trabalhando minhas habilidades em UI/UX.
 
 #### Se quiser saber mais:
-* [LinkedIn](https://www.linkedin.com/in/alisson777/)
+* <a href="https://www.linkedin.com/in/alisson777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 * [Site Pessoal (em breve)](#)
 * Email: 4lisson.developer@gmail.com
 

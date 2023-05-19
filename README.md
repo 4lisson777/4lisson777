@@ -1,7 +1,7 @@
 ### Hi, I'm Alisson. 👨🏻‍💻
 
 - 👨🏻‍💻 Working for a venture capital company as front-end developer, building websites with a focus on high performance.
-- - 🔭 Developing web applications with React/NextJs ⚛️.
+- 🔭 Developing web applications with React/NextJs ⚛️.
 - 🌱 Studying about backend and UI/UX.
 
 ##### See more:

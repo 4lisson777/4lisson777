@@ -1,7 +1,7 @@
-### Olá, eu sou Alisson. 👨🏻‍💻
+### Hi, I'm Alisson. 👨🏻‍💻
 
-- 🔭 Developing web applications with React/NextJs ⚛️.
 - 👨🏻‍💻 Working for a venture capital company as front-end developer, building websites with a focus on high performance.
+- - 🔭 Developing web applications with React/NextJs ⚛️.
 - 🌱 Studying about backend and UI/UX.
 
 ##### See more:

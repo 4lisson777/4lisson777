@@ -1,12 +1,11 @@
 ### Olá, eu sou Alisson. 👨🏻‍💻
 
-- 🔭 Especialista em Desenvolvimento Front-End com React ⚛️.
-- 👨🏻‍💻 Atualmente estou trabalhando no desenvolvimento do meu site pessoal.
-- 🌱 Em paralelo, estou trabalhando minhas habilidades em UI/UX.
+- 🔭 Developing web applications with React/NextJs ⚛️.
+- 👨🏻‍💻 Working for a venture capital company as front-end developer, building websites with a focus on high performance.
+- 🌱 Studying about backend and UI/UX.
 
-##### Saiba mais:
+##### See more:
 * <a href="https://www.linkedin.com/in/alisson777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-* [Site Pessoal (em breve)](#)
 * Email: 4lisson.developer@gmail.com
 
 ##

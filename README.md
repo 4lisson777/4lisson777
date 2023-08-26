@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Developing high-performance websites at <a href="https://www.febacapital.com" target="_blank">Febacapital</a>.
 - 🔭 Building web applications with React/NextJs ⚛️.
-- 🌱 Studying about backend and UI/UX.
+- 🌱 Studying backend and UI/UX.
 
 ##### See more:
 * <a href="https://www.linkedin.com/in/alisson777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

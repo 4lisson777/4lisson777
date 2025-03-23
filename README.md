@@ -6,7 +6,7 @@
 
 ##### See more:
 * <a href="https://www.linkedin.com/in/alisson777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-* My website: <a href="https://4lisson.dev.br/en">4lisson.dev.br</a>
+* My website: <a href="https://4lisson.dev.br/en" target="_blank">4lisson.dev.br</a>
 * Email: 4lisson.developer@gmail.com
 
 ##

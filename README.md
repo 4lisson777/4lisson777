@@ -1,6 +1,6 @@
 ### Hi, I'm Alisson. 👨🏻‍💻
 
-- 👨🏻‍💻 Developing high-performance websites at <a href="https://www.febacapital.com" target="_blank">Febacapital</a>.
+- 👨🏻‍💻 Developing high-performance websites at <a href="https://www.inovarsistemas.com/" target="_blank">Inovar Sistemas</a>.
 - 🔭 Building web applications with React/NextJs ⚛️.
 - 🌱 Studying backend and UI/UX.
 
@@ -16,6 +16,5 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
